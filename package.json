@@ -1,0 +1,15 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "AhmedEzzat",
+  "homepage": "https://AhmedEzzat12.github.io/mywebsite",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
